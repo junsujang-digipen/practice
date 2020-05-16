@@ -24,13 +24,23 @@ I practice Markdown
 this is word spacing practice
 
 it's ok?
+
 ##Syntax practice
+
 **What is bold(2*)**
+
 *what is bold(1*)*
+
 _this is italic_
+
 __Italic(use 2)__
+
 -what is this
+
 -asd
+
 	-zxc
+	
 ####combine
+
 *combine* _the_ __italic__ **ok?**
