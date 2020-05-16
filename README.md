@@ -21,3 +21,15 @@ I practice Markdown
 ### 16.Which country has the most attractive men/women?
 ### 17.Where is the best place to go on vacation?
 ### 18.Are you a morning person or an evening person?
+this is word spacing practice
+it's ok?
+##Syntax practice
+**What is bold(2*)**
+*what is bold(1*)*
+_this is italic_
+__Italic(use 2)__
+-what is this
+-asd
+	-zxc
+####combine
+*combine* _the_ __italic__ **ok?**
