@@ -21,7 +21,7 @@ I practice Markdown
 ### 16.Which country has the most attractive men/women?
 ### 17.Where is the best place to go on vacation?
 ### 18.Are you a morning person or an evening person?
-this is word spacing practice
+this is word spacing practice\n
 it's ok?
 ##Syntax practice
 **What is bold(2*)**
