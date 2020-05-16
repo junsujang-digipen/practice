@@ -1,5 +1,5 @@
 # practice
 this is little practice
 ## sub section
-??
-이건 어떻게 쓰는거지
+I practice Markdown
+![My photo](C:\Users\준수\Desktop\git practice\practice\photo.jpg)
